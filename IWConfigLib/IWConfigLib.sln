@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IWConfigLib", "IWConfigLib\IWConfigLib.csproj", "{64CE6741-2917-4866-B913-0225260B8D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigGenRunner", "ConfigGenRunner\ConfigGenRunner.csproj", "{DDAE2CB4-566E-4D2C-9651-5DA93D61B3AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64CE6741-2917-4866-B913-0225260B8D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CE6741-2917-4866-B913-0225260B8D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CE6741-2917-4866-B913-0225260B8D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CE6741-2917-4866-B913-0225260B8D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAE2CB4-566E-4D2C-9651-5DA93D61B3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAE2CB4-566E-4D2C-9651-5DA93D61B3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAE2CB4-566E-4D2C-9651-5DA93D61B3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAE2CB4-566E-4D2C-9651-5DA93D61B3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

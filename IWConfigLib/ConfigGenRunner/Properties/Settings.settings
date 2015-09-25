@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConfigGenRunner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TemplateDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\projects\server_configurator\templates\config_set</Value>
+    </Setting>
+    <Setting Name="ValuesFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\projects\server_configurator\config_values.txt</Value>
+    </Setting>
+    <Setting Name="OutputDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\projects\server_configurator\out</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
